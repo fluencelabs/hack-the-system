@@ -25,7 +25,7 @@ backend services using [AIR](https://fluence.dev/docs/air-scripts). At least one
 
 ### Resources And Support
 * [Documentation](https://fluence.dev/docs)
-* [Discord]()
+* [Discord](https://discord.com/invite/5kXQnUxvEd)
 * We are hosting a [workshop]() March 3, 2021, 17:30 GMT
 * Feel free to post issues in this repo with any questions
 
