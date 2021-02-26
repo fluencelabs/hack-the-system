@@ -23,6 +23,8 @@ Implement an (decentralized) application of your choice on the Fluence stack con
 backend services using [AIR](https://fluence.dev/docs/air-scripts). At least one of the backend services should require [authentication](https://fluence.dev/docs/tetraplets). 
 <b>Prizes</b>: USD 2000.00 and USD 1,000.00 for the best and second best functional, dockerized submission, respectively.
 
+Please register for the hackathon at: https://www.encode.club/hack-the-system/#register-form 
+
 ### Resources And Support
 * [Documentation](https://fluence.dev/docs)
 * [Discord](https://discord.com/invite/5kXQnUxvEd)
