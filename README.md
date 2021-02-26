@@ -26,9 +26,9 @@ backend services using [AIR](https://fluence.dev/docs/air-scripts). At least one
 Please register for the hackathon at: https://www.encode.club/hack-the-system/#register-form 
 
 ### Resources And Support
-* [Documentation](https://fluence.dev/docs)
-* [Discord](https://discord.com/invite/5kXQnUxvEd)
-* We are hosting a [workshop](./workshop/Readme.md) March 3, 2021, 17:30 GMT
+* Fluence [Documentation](https://fluence.dev/docs)
+* Connect with [discord](https://discord.com/invite/5kXQnUxvEd)
+* We are hosting a workshop March 3, 2021, 17:30 GMT. Please [register](https://www.eventbrite.co.uk/e/fluence-workshop-1-introduction-to-fluence-tickets-142241346697) for your free tickets.
 * Feel free to post issues in this repo with any questions
 
 
