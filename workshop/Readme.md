@@ -1,6 +1,7 @@
 # Workshop
 
 When: March 18, 2021  17:30 GMT
+
 Register [here](https://www.eventbrite.co.uk/e/fluence-workshop-2-tickets-142242821107)
 
 ## Resources
