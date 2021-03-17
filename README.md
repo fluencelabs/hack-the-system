@@ -28,7 +28,7 @@ Please register for the hackathon at: https://www.encode.club/hack-the-system/#r
 ### Resources And Support
 * Fluence [Documentation](https://fluence.dev/docs)
 * Connect with [discord](https://discord.com/invite/5kXQnUxvEd)
-* We are hosting a workshop March 3, 2021, 17:30 GMT. Please [register](https://www.eventbrite.co.uk/e/fluence-workshop-1-introduction-to-fluence-tickets-142241346697) for your free tickets.
+* We are hosting a workshop March 18, 2021, 17:30 GMT. Please [register](https://www.eventbrite.co.uk/e/fluence-workshop-2-tickets-142242821107) for your free tickets.
 * Feel free to post issues in this repo with any questions
 
 
